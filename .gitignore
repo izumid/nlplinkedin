@@ -1,0 +1,16 @@
+# Ignore folders and its contents
+/bin/
+/Include/
+/Lib/
+/Scripts/
+/share/
+/-v/
+/_check/
+
+# Ignore files with extension
+.cfg
+
+
+# Ignore .env files (but not .env.example)
+!.env.example
+.env
