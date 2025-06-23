@@ -6,6 +6,8 @@
 /share/
 /-v/
 /_check/
+/venv/
+/.vscode/
 
 # Ignore files with extension
 .cfg

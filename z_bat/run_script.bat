@@ -1,7 +1,7 @@
 @echo off
 TITLE RUN PROG: 
 
-set "path_env=%~dp0\Scripts"
+set "path_env=%~dp0\venv\Scripts"
 echo Enviroment path: %path_env%
 
 call "%path_env%\activate.bat"
